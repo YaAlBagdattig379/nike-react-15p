@@ -1,0 +1,18 @@
+.nav-intem a{
+    color:#3C3C3C;
+}
+.bg-header{
+    background: #FFF9F4;
+}
+.main-bg{
+    background: white;
+}
+.casual-shoes-bg{
+    background:rgb(255, 234, 234);
+}
+.box-shadow{
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+    background: #FFFFFF;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+    border-radius: 20px
+}
